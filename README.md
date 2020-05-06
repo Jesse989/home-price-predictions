@@ -3,6 +3,10 @@ Predicting Home Prices
 
 using various multiple linear regression models for predicting home prices
 
+Slide Show:
+[Link to Slide Show](https://spark.adobe.com/page/UIaOvoyurW9Fb/)
+
+
 Project Organization
 ------------
 
