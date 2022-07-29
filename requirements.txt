@@ -50,7 +50,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.3
 mccabe==0.6.1
 mercantile==1.1.3
-mistune==0.8.4
+mistune==2.0.3
 munch==2.5.0
 music21==5.7.2
 nb-conda-kernels==2.2.3
